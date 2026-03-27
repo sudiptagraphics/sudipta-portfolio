@@ -80,7 +80,7 @@ export default function Hero() {
                     {'\n'}  role: <span style={{ color: '#fb923c' }}>&quot;Product Designer&quot;</span>,
                     {'\n'}  tools: [<span style={{ color: '#4ade80' }}>&quot;Figma&quot;</span>, <span style={{ color: '#4ade80' }}>&quot;Adobe XD&quot;</span>],
                     {'\n'}  experience: <span style={{ color: '#c084fc' }}>11</span>,
-                    {'\n'}  currentCompany: <span style={{ color: '#fb923c' }}>&quot;Xempla&quot;</span>
+                    {'\n'}  currentCompany: <span style={{ color: '#fb923c' }}>&quot;ABC&quot;</span>
                     {'\n'}{'}'};{'\n\n'}
                     <span style={{ color: 'var(--accent)' }}>const </span>
                     <span style={{ color: 'var(--fg)' }}>developer</span> = {'{'}

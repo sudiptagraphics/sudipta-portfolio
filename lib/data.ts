@@ -11,7 +11,7 @@ export interface Project {
 export const projects: Project[] = [
   {
     id: 1,
-    title: 'Xempla Enterprise Dashboard',
+    title: 'ABC Enterprise Dashboard',
     description:
       'Complete redesign and development of enterprise SaaS dashboard. Improved user efficiency by 40% with AI-assisted workflow optimization.',
     image:
@@ -76,7 +76,7 @@ export const techStack: string[] = [
 export const experiences = [
   {
     title: 'Senior Product Designer',
-    company: 'Xempla',
+    company: 'ABC',
     period: '2022 - Present',
     description:
       'Leading product design initiatives for enterprise SaaS platform. Implementing AI-assisted design workflows and converting designs to production React/Next.js code.',

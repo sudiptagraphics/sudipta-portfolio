@@ -22,7 +22,7 @@ export default function About() {
               </p>
               <p>
                 Currently at{' '}
-                <strong className="text-fg">Xempla</strong>, I lead design initiatives while
+                <strong className="text-fg">ABC</strong>, I lead design initiatives while
                 implementing complex frontend architectures. My unique position allows me to bridge
                 the gap between creative vision and technical execution.
               </p>
